@@ -6,15 +6,7 @@ authors = ["Simon Draeger <sdraeger@salk.edu>"]
 description = "Pure Rust implementation of the FIFF (Functional Imaging File Format) parser for MEG/EEG data"
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/sdraeger/DDALAB"
-keywords = [
-	"meg",
-	"eeg",
-	"neuroscience",
-	"neuroimaging",
-	"fiff",
-	"brain",
-	"neuro",
-]
+keywords = ["meg", "eeg", "neuroscience", "neuroimaging", "fiff"]
 categories = ["science", "parser-implementations"]
 readme = "README.md"
 
